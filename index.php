@@ -17,7 +17,7 @@ include 'include/top-right.php';
 			<div class="card-left">
 				<div class="img-icon">
 					<img src="img/invoice.png" alt="..." height="40px" width="40px">
-					<p class="pt-5 pl-3">Total Order <?=$_SESSION['username']?></p>
+					<p class="pt-5 pl-3">Total Order</p>
 					<span>458,58</span>
 
 				</div>
